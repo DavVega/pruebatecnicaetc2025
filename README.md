@@ -33,10 +33,9 @@ Execution/
 * Instalar Node.js v20+ https://nodejs.org/en/download
 * Instalar npm 10+ (see https://phoenixnap.com/kb/install-node-js-npm-on-windows)
 
-## 2. Descargar el proyecto adjunto prueba-tecnica-ETC-Greivin-Vega-Camacho.zip
-Extraer el archivo adjunto prueba-tecnica-ETC-Greivin-Vega-Camacho.zip 
-Abrir una terminal (CMD, Bash) y cambiar al directorio del proyecto:
-                               cd  prueba-técnica-ETC-Greivin-Vega-Camacho/
+## 2. Descargar el proyecto adjunto 
+git clone https://github.com/DavVega/pruebatecnicaetc2025.git
+
 ## 3. Instalar dependencias
 `npm install`
 `npx playwright install`
