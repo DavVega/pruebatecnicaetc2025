@@ -1,0 +1,13 @@
+{
+  "name": "automation-project",
+  "version": "1.0.0",
+  "description": "Automatización con Playwright usando patrón Screenplay",
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
